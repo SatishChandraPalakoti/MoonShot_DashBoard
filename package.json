@@ -1,0 +1,14 @@
+{
+  "name": "herokumoonshotdashboard",
+  "version": "1.0.0",
+  "description": "Dashboard for my moonshot application",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "author": "satish chandra palakoti",
+  "license": "ISC"
+}
